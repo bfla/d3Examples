@@ -7,3 +7,13 @@
 meteor-platform
 autopublish
 insecure
+d3
+less
+iron:router
+coffeescript
+underscore
+mquandalle:jade
+ian:bootstrap-3
+sergeyt:dimple
+pfafman:nvd3
+peernohell:c3
